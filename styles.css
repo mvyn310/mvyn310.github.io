@@ -27,4 +27,6 @@ a {
 .me-image{
     width: 30%;
     margin-left: 30px;
+    height: auto;
+    object-fit: contain;
 }
