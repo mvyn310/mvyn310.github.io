@@ -1,0 +1,30 @@
+.parentdiv {
+    width: 100%;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+
+}
+
+.home-title {
+    font-size: 35px;
+    text-align: center;
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.about {
+    width: 30%;
+    margin-right: 30px;
+}
+
+.me-image{
+    width: 30%;
+    margin-left: 30px;
+}
