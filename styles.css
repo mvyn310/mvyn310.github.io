@@ -31,3 +31,28 @@ a {
     height: auto;
     object-fit: contain;
 }
+
+.square-image {
+    width: 300px;
+}
+
+
+.art-title {
+    text-align: center;
+}
+
+.art-medium {
+    text-align: center;
+}
+
+.art-size {
+    text-align: center;
+}
+
+.art-year {
+    text-align: center;
+}
+
+.art-piece {
+    margin: 50px;
+}
